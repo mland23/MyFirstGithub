@@ -3,5 +3,10 @@ i am the branch
 dfdgfdg
 4651
 136
+<<<<<<< HEAD
 disancitijiaoo
 wo shi zhuxian 
+=======
+wo shi test chongtu 
+disancitijiao
+>>>>>>> test
